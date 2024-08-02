@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # اجرا هر 12 ساعت
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: mojtaba-00  # نام کاربری GitHub شما
+          github_user_name: mojtaba-00
           outputs: dist/snake.svg
 
       - name: Push snake.svg to the output branch
