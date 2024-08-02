@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left"> Hi there 👋 I’m mojtaba.</h2>
+
+<h5 align="left">⚡ passionate about coding and constantly learning.</h5>
+
+<h5 align="left">🌱 On my profile, you'll find various projects showcasing my journey with Java </h5>
+
+<h5 align="left">🤝 I’m always excited to help, so don’t hesitate to reach out </h5>
 
 <hr>
 
